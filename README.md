@@ -1,4 +1,4 @@
-# problem 1
+# problem 1 Score of a String
 class Solution {
     public int scoreOfString(String s) {
         int sum=0;
@@ -10,7 +10,7 @@ class Solution {
         return sum;
     }
 }
-# problem 2
+# problem 2 Concatenation of Array
 class Solution {
     public int[] getConcatenation(int[] nums) {
         int[]arr=new int[nums.length*2];
@@ -21,7 +21,7 @@ class Solution {
         return arr;
     }
 }
-# problem 3
+# problem 3 Contains Duplicate
 class Solution {
     public boolean hasDuplicate(int[] nums) {
         HashSet<Integer> set=new HashSet<>();
