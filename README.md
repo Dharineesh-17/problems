@@ -1,1 +1,1 @@
-# solving java problem on daily basis !
+# Solving java problem on daily basis !
